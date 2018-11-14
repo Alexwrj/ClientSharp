@@ -1,0 +1,108 @@
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\bin\Debug\ClientSharp.exe
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\bin\Debug\ClientSharp.exe.config
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.AddDialog.resources
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.ConnectionDialog.resources
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.ConnectionError.resources
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.Form1.resources
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.Form2.resources
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.MainMenu.resources
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.Properties.Resources.resources
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.exe
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.pdb
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\bin\Debug\ClientSharp.pdb
+C:\Users\Вячеслав\source\repos\ClientSharp\ClientSharp\obj\Debug\ClientSharp.csprojResolveAssemblyReference.cache
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\DB.mdf
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\DB_log.ldf
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe.config
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.pdb
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csprojResolveAssemblyReference.cache
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.AddDialog.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectionDialog.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectionError.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Form1.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Form2.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.MainMenu.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Properties.Resources.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csproj.GenerateResource.Cache
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csproj.CoreCompileInputs.cache
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.exe
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.pdb
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\RCDB.mdf
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\RCDB_log.ldf
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.NetScan.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SetServerName.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SSNChild_01.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SSNChild_02.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectError.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\en-US\ClientSharp.resources.dll
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.NetScan.en-US.resources
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\en-US\ClientSharp.resources.dll
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe.manifest
+C:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.application
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.exe.manifest
+C:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.application
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\DB.mdf
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\DB_log.ldf
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\RCDB.mdf
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\RCDB_log.ldf
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe.config
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe.manifest
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.application
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.pdb
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\bin\Debug\en-US\ClientSharp.resources.dll
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csprojAssemblyReference.cache
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.AddDialog.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectError.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectionDialog.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectionError.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Form1.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Form2.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.MainMenu.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.NetScan.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Properties.Resources.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SetServerName.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SSNChild_01.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SSNChild_02.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.NetScan.en-US.resources
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csproj.GenerateResource.cache
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\en-US\ClientSharp.resources.dll
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.exe.manifest
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.application
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.exe
+C:\Users\alexs\Documents\Visual Studio 2017\Projects\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.pdb
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\DB.mdf
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\DB_log.ldf
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\RCDB.mdf
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\RCDB_log.ldf
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe.config
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe.manifest
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.application
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.exe
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\ClientSharp.pdb
+D:\Unreal\ClientSharpWithScan\ClientSharp\bin\Debug\en-US\ClientSharp.resources.dll
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csprojAssemblyReference.cache
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.AddDialog.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectError.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectionDialog.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.ConnectionError.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Form1.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Form2.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.MainMenu.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.NetScan.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.Properties.Resources.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SetServerName.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SSNChild_01.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.SSNChild_02.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.NetScan.en-US.resources
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csproj.GenerateResource.cache
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.csproj.CoreCompileInputs.cache
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\en-US\ClientSharp.resources.dll
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.exe.manifest
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.application
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.exe
+D:\Unreal\ClientSharpWithScan\ClientSharp\obj\Debug\ClientSharp.pdb
