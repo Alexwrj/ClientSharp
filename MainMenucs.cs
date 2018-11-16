@@ -20,10 +20,10 @@ namespace ClientSharp
         public MainMenu()
         {
             InitializeComponent();
-            if (!this.CheckInternetConnection())
-            {
-                Environment.Exit(1);
-            }
+            //  if (!this.CheckInternetConnection())
+            //  {
+            //      Environment.Exit(1);
+            //  }
 
             nscan = new NetScan();
             nscan.Owner = this;
