@@ -69,7 +69,14 @@ namespace ClientSharp
         {
             byte[] buff = new byte[1024];
             buff = Encoding.UTF8.GetBytes(signal.ToString());
-            client.Send(buff);
+            try
+            {
+                client.Send(buff);
+            }
+            catch
+            {
+                return;
+            }
         }
 
         public string getMessage()
