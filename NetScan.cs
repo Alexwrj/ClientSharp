@@ -404,10 +404,10 @@ namespace ClientSharp
                     ChangeRow(GetData(macs[listBox1.SelectedIndex], StrType.EipAddress), StrType.ElastIP);
                 }
             }
-            catch(Exception e)
+            catch
             {
-                //just a trick that works, but occasionally
-            } 
+                return; // just a trick that works, but occasionally
+            }
         }
 
         private void PortTextBox_TextChanged(object sender, EventArgs e)
