@@ -22,10 +22,7 @@ namespace ClientSharp
             byte[] macAddr = new byte[6];
             uint macAddrLen = (uint)macAddr.Length;
 
-            if (SendARP((int)IP.Address, 0, macAddr, ref macAddrLen) != 0)
-            {
-
-            }
+            SendARP((int)IP.Address, 0, macAddr, ref macAddrLen);
 
             string[] str = new string[(int)macAddrLen];
 
