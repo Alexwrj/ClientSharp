@@ -15,7 +15,6 @@ namespace ClientSharp
         public void init()
         {
             menu = this.Owner as MainMenu;
-            putMessage.Text = menu.getMessage();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -40,19 +39,6 @@ namespace ClientSharp
         {
             menu = this.Owner as MainMenu;
             menu.SendMessage(4);
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            /*byte[] buff = new byte[1024];
-            buff = Encoding.UTF8.GetBytes("Disconnected");
-            client.Send(buff);
-            client.Close();*/
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button10_Click(object sender, EventArgs e)
@@ -155,11 +141,6 @@ namespace ClientSharp
         {
             menu = this.Owner as MainMenu;
             menu.SendMessage(21);
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button24_Click(object sender, EventArgs e)

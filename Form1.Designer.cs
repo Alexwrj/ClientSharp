@@ -71,7 +71,6 @@
             this.button29 = new System.Windows.Forms.Button();
             this.button30 = new System.Windows.Forms.Button();
             this.button31 = new System.Windows.Forms.Button();
-            this.putMessage = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -649,22 +648,12 @@
             this.button31.UseVisualStyleBackColor = true;
             this.button31.Click += new System.EventHandler(this.button31_Click_1);
             // 
-            // putMessage
-            // 
-            this.putMessage.AutoSize = true;
-            this.putMessage.Location = new System.Drawing.Point(45, 163);
-            this.putMessage.Name = "putMessage";
-            this.putMessage.Size = new System.Drawing.Size(41, 13);
-            this.putMessage.TabIndex = 55;
-            this.putMessage.Text = "label10";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(894, 691);
-            this.Controls.Add(this.putMessage);
             this.Controls.Add(this.button29);
             this.Controls.Add(this.button30);
             this.Controls.Add(this.button31);
@@ -747,7 +736,6 @@
         private System.Windows.Forms.Button button29;
         private System.Windows.Forms.Button button30;
         private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Label putMessage;
     }
 }
 
