@@ -22,7 +22,9 @@ namespace ClientSharp
             byte[] macAddr = new byte[6];
             uint macAddrLen = (uint)macAddr.Length;
 
+#pragma warning disable CS0618 // Тип или член устарел
             SendARP((int)IP.Address, 0, macAddr, ref macAddrLen);
+#pragma warning restore CS0618 // Тип или член устарел
 
             string[] str = new string[(int)macAddrLen];
 
