@@ -249,10 +249,5 @@ namespace ClientSharp
                 thread.Join();
             }
         }
-
-        private void MainMenu_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
