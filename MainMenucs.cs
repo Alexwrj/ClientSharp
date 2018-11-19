@@ -96,11 +96,13 @@ namespace ClientSharp
                     buff = client.Receive(bytesGot, bytesGot.Length, 0);
                     incommingMessage = Encoding.UTF8.GetString(bytesGot, 0, buff);
                 }
+                catch (SocketException)
+                {
+                    continue;
+                }
                 catch
                 {
                     //server stopped
-                    MessageBox.Show("Server was stopped. Please, close or restart the application");
-                    Application.Exit();
                     break;
                 }
 
@@ -112,12 +114,12 @@ namespace ClientSharp
                     {
                         case 0:
                             //server stopped
-                            MessageBox.Show("Server was stopped. Please, close or restart the application");
+                            MessageBox.Show("Server was stopped. Please, close or restart the application.");
                             //Application.Exit();
                             break;
                         case 1:
                             //server was relaunched
-                            MessageBox.Show("Server was restarted. Please, close or restart the application");
+                            MessageBox.Show("Server was restarted. Please, close or restart the application.");
                             //Application.Exit();
                             break;
                     }
@@ -134,6 +136,7 @@ namespace ClientSharp
             try
             {
                 client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                client.ReceiveTimeout = 1000;
                 client.Connect(ip, port);
                 thread = new Thread(delegate ()
                 {
@@ -244,7 +247,7 @@ namespace ClientSharp
             {
                 //need to kill listen thread also
                 //that stuff doesn't work as I expected
-                client.Disconnect(false);
+                client.Close();
                 thread.Abort();
                 thread.Join();
             }
