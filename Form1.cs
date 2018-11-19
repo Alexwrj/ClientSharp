@@ -206,7 +206,9 @@ namespace ClientSharp
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
-            //Application.Exit();
+            //exit
+            menu = this.Owner as MainMenu;
+            menu.Show();
         }
     }
 
