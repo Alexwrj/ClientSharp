@@ -102,10 +102,6 @@ namespace ClientSharp
                 {
                     string subnet = IP + i.ToString();
                     tasks.Add(PingAndUpdateAsync(new Ping(), subnet));
-                    label2.Invoke((MethodInvoker)delegate
-                    {
-                        label2.Text = "Current: " + subnet;
-                    });
                     //Thread.Sleep(5);
                 }
             }
